@@ -15,3 +15,9 @@ https://github.com/deqangss/adv-dnn-ens-malware
 We used the basic DNN model.
 
 The re-implemenation of the FM model (based on https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8931539) was uploaded to the FM directory of this Git.
+
+The malicious apks can be obtained from the Drebin formal website:
+https://www.sec.cs.tu-bs.de/~danarp/drebin/
+
+An extended version of the benign dataset can be found in:
+https://drive.google.com/file/d/1cDU-_K4q3fphwMlef7nJjZuIH7lPt3mN/view?usp=sharing
