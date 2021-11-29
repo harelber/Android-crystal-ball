@@ -21,3 +21,5 @@ https://www.sec.cs.tu-bs.de/~danarp/drebin/
 
 An extended version of the benign dataset can be found in:
 https://drive.google.com/file/d/1cDU-_K4q3fphwMlef7nJjZuIH7lPt3mN/view?usp=sharing
+
+The code of the evasion attacks will be uploaded after the publication of the paper.
