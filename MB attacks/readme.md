@@ -13,3 +13,5 @@ Then, run the run_disect.py in the MB1 folder file with the following inputs:
 1. A path to the output folder.
 2. apk key for signing the app.
 3. A path to the input folder.
+
+The MB2 attack uses the statistics.csv file, that depict the use of permission requests in the dataset. An example for such a file can be viewed in this folder.
