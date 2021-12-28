@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Berger"
+  given-names: "Harel"
+  orcid: "https://orcid.org/0000-0001-6035-5127"
+- family-names: "Hajaj"
+  given-names: "Chen"
+  orcid: "https://orcid.org/0000-0001-9940-5654"
+- family-names: "Mariconti"
+  given-names: "Enrico"
+  orcid: "https://orcid.org/0000-0003-3005-8214"
+- family-names: "Dvir"
+  given-names: "Amit"
+  orcid: "https://orcid.org/0000-0002-3670-0784"
+title: "Android-crystal-ball"
+journal: "IEEE Access"
+version: 1.0.0
+doi: 10.1109/ACCESS.2021.3138628
+date-released: 2021-12-28
+url: "https://github.com/harelber/Android-crystal-ball"
+
