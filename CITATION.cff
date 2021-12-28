@@ -1,3 +1,5 @@
+type: article
+
 @article{berger2021crystal,
   author={Berger, Harel and Hajaj, Chen and Mariconti, Enrico and Dvir, Amit},
   journal={IEEE Access}, 
