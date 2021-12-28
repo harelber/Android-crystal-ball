@@ -23,3 +23,14 @@ An extended version of the benign dataset can be found in:
 https://drive.google.com/file/d/1cDU-_K4q3fphwMlef7nJjZuIH7lPt3mN/view?usp=sharing
 
 The code of the evasion attacks can be viewed in the MB attacks folder.
+
+## Citation
+
+```
+@article{berger2021crystal,
+  title={Crystal Ball: From Innovative Attacks to Attack Effectiveness Classifier},
+  author={Berger, Harel and Hajaj, Chen and Mariconti, Enrico and Dvir, Amit},
+  journal={IEEE Access},
+  year={2021},
+  publisher={IEEE}
+}
